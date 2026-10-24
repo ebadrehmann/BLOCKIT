@@ -1,0 +1,10 @@
+{
+  "name": "BLOCKIT",
+  "description": "chrome extension to block websites",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "assets/icon.png"
+  }
+}
