@@ -1,11 +1,7 @@
-import './App.css'
+import Container from "./components/Container";
 
 function App() {
-  return (
-    <main>
-      <h1>BLOCKIT</h1>
-    </main>
-  )
+  return <Container />;
 }
 
-export default App
+export default App;
